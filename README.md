@@ -25,6 +25,7 @@
 <div align="left">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5fBXn7gdNf-cAfk84sref9G_Rc8RrjnB6g&s" height="30" alt="Solidity logo"  />
   <img width="12" />
+  <img alt="HTML5" src="https://camo.githubusercontent.com/c8f376119eb72e4557252c45ec162434fd844396a4787dae4d42d267a07b4a3b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c766974652c6d6f6e676f64622c657870726573732c6e6f64656a732c7461696c77696e642c6a732c68746d6c2c6373732c6370702c632c6769742c76657263656c2c76697375616c73747564696f2c7673636f64652c7265706c69742c72656475782c706f73746d616e2c706f7765727368656c6c2c6d7973716c2c636f646570656e2c"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 

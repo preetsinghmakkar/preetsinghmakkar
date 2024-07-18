@@ -36,4 +36,4 @@ Hi, I am Preet Singh, a passionate Full Stack Web3 Developer with a keen interes
 ![](https://github-contributor-stats.vercel.app/api?username=preetsinghmakkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=preetsinghmakkar&icon=0&color=0)](https://visitcount.itsvg.in)
+

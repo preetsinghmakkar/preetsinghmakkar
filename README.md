@@ -1,6 +1,7 @@
 # 💫 About Me:
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWh0bzFjbWNpcmQ2MTRrbmliZ3Y4eXl0M3ZvZXE1aDRydXVzanNjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"  />
 
-Hi, I am Preet Singh, a passionate Full Stack Web3 Developer with a interest in decentralized technologies and blockchain innovation. Currently, I am working on **Proofify**, a cutting-edge project focused on decentralized credential verification. My journey in the Web3 space is driven by a desire to create secure, efficient, and user-friendly decentralized applications.
+Hi, I am Preet Singh, a passionate Full Stack Web3 Developer with a keen interest in decentralized technologies and blockchain innovation. Currently, I am working on **Proofify**, a cutting-edge project focused on decentralized credential verification. My journey in the Web3 space is driven by a desire to create secure, efficient, and user-friendly decentralized applications.
 
 🌐 **Current Focus:**
 - Developing and enhancing **Proofify** to revolutionize credential verification using blockchain technology.
@@ -12,6 +13,14 @@ Hi, I am Preet Singh, a passionate Full Stack Web3 Developer with a interest in 
 - DeFi and decentralized applications
 - Building innovative solutions that bridge the gap between Web2 and Web3
 
+<p align="left">
+    <a href="https://github.com/preetsinghmakkar">
+        <img src="https://komarev.com/ghpvc/?username=preetsinghmakkar&label=Profile%20views&color=0e75b6&style=flat" alt="Preet Singh Makkar" />
+    </a>
+    <a href="https://github.com/preetsinghmakkar?tab=followers">
+        <img src="https://img.shields.io/github/followers/tirtheshjaintj?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/preet-singh-a65967302/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Preet132319) 
@@ -28,4 +37,3 @@ Hi, I am Preet Singh, a passionate Full Stack Web3 Developer with a interest in 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=preetsinghmakkar&icon=0&color=0)](https://visitcount.itsvg.in)
-

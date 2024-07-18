@@ -12,9 +12,6 @@ Hi, I am Preet Singh. I am a full stack Web3 developer.<br>I am currently workin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=preetsinghmakkar&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=preetsinghmakkar&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=preetsinghmakkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=preetsinghmakkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 

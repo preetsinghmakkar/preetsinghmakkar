@@ -18,7 +18,7 @@ Hi, I am Preet Singh, a passionate Full Stack Web3 Developer with a keen interes
         <img src="https://komarev.com/ghpvc/?username=preetsinghmakkar&label=Profile%20views&color=0e75b6&style=flat" alt="Preet Singh Makkar" />
     </a>
     <a href="https://github.com/preetsinghmakkar?tab=followers">
-        <img src="https://img.shields.io/github/followers/tirtheshjaintj?label=Followers&style=social" alt="followers-count">
+        <img src="https://img.shields.io/github/followers/preetsinghmakkar?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 

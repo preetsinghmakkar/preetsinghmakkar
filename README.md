@@ -4,8 +4,8 @@
 Hi, I am Preet Singh, a passionate Full Stack Web3 Developer with a keen interest in decentralized technologies and blockchain innovation. Currently, I am working on **Proofify**, a cutting-edge project focused on decentralized credential verification. My journey in the Web3 space is driven by a desire to create secure, efficient, and user-friendly decentralized applications.
 
 🌐 **Current Focus:**
-- Developing and enhancing **Proofify** to revolutionize credential verification using blockchain technology.
 - Deepening my expertise in **Web3 Security Audits** to ensure the highest standards of security and reliability in my projects.
+- Getting hands dirty in Solana Development.
 
 💡 **Interests:**
 - Blockchain development

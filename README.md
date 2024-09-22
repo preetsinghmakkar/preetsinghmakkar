@@ -1,17 +1,20 @@
 # 💫 About Me:
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWh0bzFjbWNpcmQ2MTRrbmliZ3Y4eXl0M3ZvZXE1aDRydXVzanNjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"  />
 
-Hi, I am Preet Singh, a passionate Full Stack Web3 Developer with a keen interest in decentralized technologies and blockchain innovation. My journey in the Web3 space is driven by a desire to create secure, efficient, and user-friendly decentralized applications.
+Hi, I'm Preet Singh, a Full Stack Web3 Developer with a focus on building and deploying robust decentralized applications. I specialize in both **Solana** and **Ethereum** development, with a deep passion for creating secure and scalable blockchain solutions.
 
 🌐 **Current Focus:**
-- Deepening my expertise in **Web3 Security Audits** to ensure the highest standards of security and reliability in my projects.
-- Getting hands dirty in Solana Development.
+- **Solana Development**: Building projects like banking systems, escrow contracts, liquidity platforms, and more.
+- **Ethereum Development**: Building Dapps in Solidity and auditing with an interest in staking platforms and DeFi.
+- **Web3 Security Audits**: Actively enhancing my skills to perform comprehensive audits for smart contracts.
+
 
 💡 **Interests:**
-- Blockchain development
-- Smart contract auditing
-- DeFi and decentralized applications
-- Building innovative solutions that bridge the gap between Web2 and Web3
+- Blockchain architecture and smart contract optimization
+- DeFi protocols, liquidity pools, and staking mechanisms
+- Bridging Web2 and Web3 technologies through innovative decentralized solutions
+- Continuously learning and developing security best practices for blockchain ecosystems
+
 
 <p align="left">
     <a href="https://github.com/preetsinghmakkar">
@@ -26,7 +29,7 @@ Hi, I am Preet Singh, a passionate Full Stack Web3 Developer with a keen interes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/preet-singh-a65967302/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Preet132319) 
 
 # 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-%23363636.svg?style=for-the-badge&logo=Ethereum&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-%23363636.svg?style=for-the-badge&logo=Solana&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=preetsinghmakkar&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=preetsinghmakkar&theme=gruvbox&hide_border=false)<br/>

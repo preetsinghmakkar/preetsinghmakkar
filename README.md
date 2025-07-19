@@ -23,7 +23,9 @@ From shipping production-ready dApps to diving deep into smart contract vulnerab
 
 ---
 
-## 🧪 Smart Contract Audit Findings
+## 🧪 Smart Contract Audit Findings - *as Raone*
+During my auditing journey under the alias **Raone**, I contributed to several real-world security reviews across DeFi, DAOs, and staking protocols. Here's a snapshot of vulnerabilities I discovered:
+
 
 | Protocol           | Findings                             |
 |--------------------|--------------------------------------|

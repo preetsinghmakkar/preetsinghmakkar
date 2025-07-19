@@ -23,6 +23,20 @@ From shipping production-ready dApps to diving deep into smart contract vulnerab
 
 ---
 
+## 🧪 Smart Contract Audit Findings
+
+| Protocol           | Findings                             |
+|--------------------|--------------------------------------|
+| **Silo Finance**    | 🟠 1 Medium, 🟡 1 Low                  |
+| **Virtuals Protocol** | 🔴 1 High, 🟠 1 Medium, 🟡 1 Low        |
+| **Jigsaw**          | 🔴 1 High, 🔵 2 Informational          |
+| **Liquid RON**      | 🟠 1 Medium                           |
+| **Badger DAO**      | 🟡 3 Low                              |
+
+> Severity Legend: 🔴 High · 🟠 Medium · 🟡 Low · 🔵 Informational
+
+---
+
 <p align="left">
     <a href="https://github.com/preetsinghmakkar">
         <img src="https://komarev.com/ghpvc/?username=preetsinghmakkar&label=Profile%20views&color=0e75b6&style=flat" alt="Preet Singh Makkar" />
